@@ -1612,4 +1612,30 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/etc/firmware/RIO_miniBoot.bin:system/etc/firmware/RIO_miniBoot.bin \
     vendor/huawei/kiwi/proprietary/etc/firmware/RIO_TBM_Latour2.bin:system/etc/firmware/RIO_TBM_Latour2.bin \
     vendor/huawei/kiwi/proprietary/etc/firmware/T2A_fw.bin:system/etc/firmware/T2A_fw.bin \
-    vendor/huawei/kiwi/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
+    vendor/huawei/kiwi/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
+    vendor/huawei/kiwi/proprietary/bin/ims_rtp_daemon:system/bin/ims_rtp_daemon \
+    vendor/huawei/kiwi/proprietary/bin/imscmservice:system/bin/imscmservice \
+    vendor/huawei/kiwi/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
+    vendor/huawei/kiwi/proprietary/etc/permissions/imscm.xml:system/etc/permissions/imscm.xml \
+    vendor/huawei/kiwi/proprietary/etc/permissions/qti_permissions.xml:system/etc/permissions/qti_permissions.xml \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-dplmedia.so:system/vendor/lib64/lib-dplmedia.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-ims-rcscmjni.so:system/vendor/lib64/lib-ims-rcscmjni.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsSDP.so:system/vendor/lib64/lib-imsSDP.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imscamera.so:system/vendor/lib64/lib-imscamera.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsqimf.so:system/vendor/lib64/lib-imsqimf.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsrcs.so:system/vendor/lib64/lib-imsrcs.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsrcscm.so:system/vendor/lib64/lib-imsrcscm.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsrcscmclient.so:system/vendor/lib64/lib-imsrcscmclient.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsrcscmservice.so:system/vendor/lib64/lib-imsrcscmservice.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imss.so:system/vendor/lib64/lib-imss.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsvt.so:system/vendor/lib64/lib-imsvt.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-imsxml.so:system/vendor/lib64/lib-imsxml.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rcsimssjni.so:system/vendor/lib64/lib-rcsimssjni.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rcsjni.so:system/vendor/lib64/lib-rcsjni.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rtpcommon.so:system/vendor/lib64/lib-rtpcommon.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rtpcore.so:system/vendor/lib64/lib-rtpcore.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rtpdaemoninterface.so:system/vendor/lib64/lib-rtpdaemoninterface.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/lib-rtpsl.so:system/vendor/lib64/lib-rtpsl.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libimscamera_jni.so:system/vendor/lib64/libimscamera_jni.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libimsmedia_jni.so:system/vendor/lib64/libimsmedia_jni.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libvoice-svc.so:system/vendor/lib64/libvoice-svc.so

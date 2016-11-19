@@ -23,6 +23,10 @@ PRODUCT_PACKAGES += \
     qcrilhook
 
 PRODUCT_PACKAGES += \
+    ims \
+    imscmlibrary
+
+PRODUCT_PACKAGES += \
     libmm-abl
 
 PRODUCT_PACKAGES += \
